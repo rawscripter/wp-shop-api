@@ -1,0 +1,11 @@
+2020-01-07T09:55:16+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on bool in C:\xampp\htdocs\tfdigitalsoluction\shop\wp-post.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\tfdigitalsoluction\shop\wp-post.php on line 5
+
+2020-01-07T09:57:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_get_products(), 0 passed in C:\xampp\htdocs\tfdigitalsoluction\shop\wp-post.php on line 3 and exactly 1 expected in C:\xampp\htdocs\tfdigitalsoluction\shop\wp-content\plugins\woocommerce\includes\wc-product-functions.php:26
+Stack trace:
+#0 C:\xampp\htdocs\tfdigitalsoluction\shop\wp-post.php(3): wc_get_products()
+#1 {main}
+  thrown in C:\xampp\htdocs\tfdigitalsoluction\shop\wp-content\plugins\woocommerce\includes\wc-product-functions.php on line 26
+
